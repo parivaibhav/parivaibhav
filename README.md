@@ -19,6 +19,13 @@
 
 <img src="https://raw.githubusercontent.com/parivaibhav/parivaibhav/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
